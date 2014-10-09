@@ -1,2 +1,1 @@
-Blackjack-Game
-==============
+This is a simple blackjack game in terminal.
